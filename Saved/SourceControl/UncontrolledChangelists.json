@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Maps/TestEnvironment.umap",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Player/BP_GameMode.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Look.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/Interact.uasset"
+			]
+		}
+	]
+}

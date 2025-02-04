@@ -5,31 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Maps/TestEnvironment.umap",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Mapping_Player.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Movement.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Player/BP_PlayerCont.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Player/BP_GameMode.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Player/BP_PlayerChar.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Interact.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Jump.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Inputs/Input_Look.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interfaces/Interface_Interact.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/Interact.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/BP_CollectablePickup.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/BP_PhysicsPickup.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/Steel.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Enemy/Turrent/BP_TurrentProjectile.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Enemy/Turrent/BP_Turrent.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/AnimatedInteractables/BP_Button.uasset",
-				"C:/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/Steel1.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/AnimatedInteractables/MAT_Cube.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/SwordMesh.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/Wood_vanished.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/wood_vanished_BaseColor.uasset",
-				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart/Content/Interactables/wood_vanished_Roughness.uasset"
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart 5.5 - Copy/Content/Enemy/Mobs/BP_Enemy.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart 5.5 - Copy/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart 5.5 - Copy/Content/Maps/TestEnvironment.umap",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart 5.5 - Copy/Content/Player/BP_GameMode.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart 5.5 - Copy/Content/Interfaces/BP_HUD.uasset",
+				"C:/Users/Randy/Documents/Unreal Projects/DragonsHeart 5.5 - Copy/Content/Extras/CT_Components/Demos/Demo_CrosshairSystem/WBP_CrossHairs.uasset"
 			]
 		}
 	]
